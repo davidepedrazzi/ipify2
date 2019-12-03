@@ -1,0 +1,30 @@
+{
+  "name": "ipify2",
+  "version": "1.0.6",
+  "description": "An unofficial client library for ipify: A Simple Public IP Address API.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidepedrazzi/ipify2.git"
+  },
+  "keywords": [
+    "public",
+    "ip",
+    "ipv4",
+    "ipv6",
+    "address"
+  ],
+  "author": "Davide Pedrazzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidepedrazzi/ipify2/issues"
+  },
+  "homepage": "https://github.com/davidepedrazzi/ipify2#readme"
+}
