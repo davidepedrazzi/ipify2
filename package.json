@@ -4,7 +4,7 @@
   "description": "An unofficial client library for ipify: A Simple Public IP Address API.",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   },
   "devDependencies": {},
   "scripts": {
