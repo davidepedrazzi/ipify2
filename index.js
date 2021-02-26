@@ -11,7 +11,7 @@ module.exports = {
         return get('https://api.ipify.org');
     },
 
-    ipv6() {
-        return get('https://api6.ipify.org');
+    ipv64() {
+        return get('https://api64.ipify.org');
     }
 }
