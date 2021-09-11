@@ -1,10 +1,10 @@
 {
   "name": "ipify2",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An unofficial client library for ipify: A Simple Public IP Address API.",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
