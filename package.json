@@ -1,6 +1,6 @@
 {
   "name": "ipify2",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "An unofficial client library for ipify: A Simple Public IP Address API.",
   "main": "index.js",
   "dependencies": {
